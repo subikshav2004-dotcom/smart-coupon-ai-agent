@@ -1,0 +1,145 @@
+[
+  {
+    "code": "ELECTRO20",
+    "description": "20% off on all Electronics up to ₹1,500 on minimum purchase of ₹2,000",
+    "discount_percentage": 20,
+    "max_discount": 1500,
+    "min_purchase": 2000,
+    "applicable_categories": ["Electronics"],
+    "applicable_platforms": ["Amazon", "Flipkart", "General / Other"],
+    "expiry_date": "2027-12-31",
+    "terms": "Valid only on consumer electronics and gadgets. Applicable once per customer."
+  },
+  {
+    "code": "MEGACHIP30",
+    "description": "30% off on Electronics up to ₹2,500 on minimum purchase of ₹5,000",
+    "discount_percentage": 30,
+    "max_discount": 2500,
+    "min_purchase": 5000,
+    "applicable_categories": ["Electronics"],
+    "applicable_platforms": ["Amazon", "Flipkart", "General / Other"],
+    "expiry_date": "2027-11-30",
+    "terms": "High-value electronics offer. Cannot be clubbed with store credits."
+  },
+  {
+    "code": "FASHION50",
+    "description": "Flat 50% off on Fashion apparel up to ₹1,000 on minimum purchase of ₹1,200",
+    "discount_percentage": 50,
+    "max_discount": 1000,
+    "min_purchase": 1200,
+    "applicable_categories": ["Fashion"],
+    "applicable_platforms": ["Myntra", "Amazon", "Flipkart", "General / Other"],
+    "expiry_date": "2027-10-15",
+    "terms": "Applicable on clothing, footwear, and accessories."
+  },
+  {
+    "code": "STYLE25",
+    "description": "25% off on Fashion styles up to ₹500 on minimum purchase of ₹600",
+    "discount_percentage": 25,
+    "max_discount": 500,
+    "min_purchase": 600,
+    "applicable_categories": ["Fashion"],
+    "applicable_platforms": ["Myntra", "Amazon", "Flipkart", "General / Other"],
+    "expiry_date": "2027-12-31",
+    "terms": "Applies to all casual and formal fashion items."
+  },
+  {
+    "code": "YUMMY40",
+    "description": "40% off on Food orders up to ₹200 on minimum purchase of ₹300",
+    "discount_percentage": 40,
+    "max_discount": 200,
+    "min_purchase": 300,
+    "applicable_categories": ["Food"],
+    "applicable_platforms": ["Swiggy", "Zomato", "General / Other"],
+    "expiry_date": "2027-09-30",
+    "terms": "Valid for restaurant delivery orders during standard dining hours."
+  },
+  {
+    "code": "FOODIE15",
+    "description": "15% off on Food dining & delivery up to ₹100 on minimum purchase of ₹200",
+    "discount_percentage": 15,
+    "max_discount": 100,
+    "min_purchase": 200,
+    "applicable_categories": ["Food"],
+    "applicable_platforms": ["Swiggy", "Zomato", "General / Other"],
+    "expiry_date": "2027-12-31",
+    "terms": "Valid on selected partner eateries."
+  },
+  {
+    "code": "GROCERY25",
+    "description": "25% off on Grocery & Supermarket up to ₹400 on minimum purchase of ₹800",
+    "discount_percentage": 25,
+    "max_discount": 400,
+    "min_purchase": 800,
+    "applicable_categories": ["Grocery"],
+    "applicable_platforms": ["Blinkit", "Amazon", "Flipkart", "General / Other"],
+    "expiry_date": "2027-12-31",
+    "terms": "Valid on household daily essentials, fresh produce, and pantry staples."
+  },
+  {
+    "code": "FRESH10",
+    "description": "10% off on Grocery up to ₹150 on minimum purchase of ₹400",
+    "discount_percentage": 10,
+    "max_discount": 150,
+    "min_purchase": 400,
+    "applicable_categories": ["Grocery"],
+    "applicable_platforms": ["Blinkit", "Amazon", "Flipkart", "General / Other"],
+    "expiry_date": "2027-08-31",
+    "terms": "Applicable on grocery orders with same-day express delivery."
+  },
+  {
+    "code": "UNIVERSAL10",
+    "description": "10% off on Any Category up to ₹500 on minimum purchase of ₹500",
+    "discount_percentage": 10,
+    "max_discount": 500,
+    "min_purchase": 500,
+    "applicable_categories": ["Electronics", "Fashion", "Food", "Grocery"],
+    "applicable_platforms": ["Amazon", "Flipkart", "Myntra", "Swiggy", "Zomato", "Blinkit", "General / Other"],
+    "expiry_date": "2027-12-31",
+    "terms": "Sitewide universal coupon valid across all participating categories."
+  },
+  {
+    "code": "SUPERDEAL15",
+    "description": "15% off sitewide up to ₹750 on minimum purchase of ₹1,000",
+    "discount_percentage": 15,
+    "max_discount": 750,
+    "min_purchase": 1000,
+    "applicable_categories": ["Electronics", "Fashion", "Food", "Grocery"],
+    "applicable_platforms": ["Amazon", "Flipkart", "Myntra", "Swiggy", "Zomato", "Blinkit", "General / Other"],
+    "expiry_date": "2027-12-31",
+    "terms": "Sitewide multi-category discount. Cannot be combined with clearance items."
+  },
+  {
+    "code": "FESTIVE35",
+    "description": "35% off on Electronics & Fashion up to ₹2,000 on minimum purchase of ₹3,500",
+    "discount_percentage": 35,
+    "max_discount": 2000,
+    "min_purchase": 3500,
+    "applicable_categories": ["Electronics", "Fashion"],
+    "applicable_platforms": ["Amazon", "Flipkart", "Myntra", "General / Other"],
+    "expiry_date": "2027-12-31",
+    "terms": "Special festive collection discount."
+  },
+  {
+    "code": "EXPIRED50_DEMO",
+    "description": "[SAMPLE EXPIRED COUPON] 50% off sitewide (Expired for validation testing)",
+    "discount_percentage": 50,
+    "max_discount": 3000,
+    "min_purchase": 500,
+    "applicable_categories": ["Electronics", "Fashion", "Food", "Grocery"],
+    "applicable_platforms": ["Amazon", "Flipkart", "Myntra", "Swiggy", "Zomato", "Blinkit", "General / Other"],
+    "expiry_date": "2024-01-01",
+    "terms": "Expired demo coupon included to verify validator rejection behavior."
+  },
+  {
+    "code": "OLDDIWALI30_DEMO",
+    "description": "[SAMPLE EXPIRED COUPON] 30% off on Fashion (Expired for validation testing)",
+    "discount_percentage": 30,
+    "max_discount": 1000,
+    "min_purchase": 1000,
+    "applicable_categories": ["Fashion"],
+    "applicable_platforms": ["Myntra", "Amazon", "Flipkart", "General / Other"],
+    "expiry_date": "2024-11-01",
+    "terms": "Past seasonal demo coupon to test validation filters."
+  }
+]

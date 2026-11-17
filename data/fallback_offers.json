@@ -1,0 +1,62 @@
+[
+  {
+    "id": "BANK_HDFC_5",
+    "title": "HDFC Bank Credit & Debit Cards 5% Instant Cashback",
+    "description": "Get 5% instant cashback up to ₹500 on all orders above ₹1,000 using HDFC Bank cards.",
+    "min_purchase": 1000,
+    "discount_type": "percentage",
+    "discount_value": 5,
+    "max_discount": 500,
+    "applicable_categories": ["Electronics", "Fashion", "Food", "Grocery"],
+    "payment_method": "HDFC Bank Cards",
+    "benefit_summary": "Save up to ₹500 instantly at checkout with HDFC card"
+  },
+  {
+    "id": "UPI_CASHBACK_30",
+    "title": "UPI Instant Payment Cashback",
+    "description": "Flat ₹30 cashback directly to your bank account on orders of ₹250 or more paid via UPI.",
+    "min_purchase": 250,
+    "discount_type": "flat",
+    "discount_value": 30,
+    "max_discount": 30,
+    "applicable_categories": ["Electronics", "Fashion", "Food", "Grocery"],
+    "payment_method": "UPI (GPay / PhonePe / Paytm / BHIM)",
+    "benefit_summary": "Flat ₹30 instant cashback on UPI payment"
+  },
+  {
+    "id": "FREE_DELIVERY_PLUS",
+    "title": "Complimentary Express Delivery Offer",
+    "description": "Enjoy 100% free delivery (standard fee ₹60 waived) on qualifying orders over ₹350.",
+    "min_purchase": 350,
+    "discount_type": "flat",
+    "discount_value": 60,
+    "max_discount": 60,
+    "applicable_categories": ["Food", "Grocery", "Fashion"],
+    "payment_method": "All payment methods",
+    "benefit_summary": "Zero delivery charges (Save ₹60 on shipping)"
+  },
+  {
+    "id": "WALLET_SAVER_10",
+    "title": "Digital Wallet 10% Cashback",
+    "description": "Receive 10% cashback up to ₹100 in your shopping wallet on orders above ₹400.",
+    "min_purchase": 400,
+    "discount_type": "percentage",
+    "discount_value": 10,
+    "max_discount": 100,
+    "applicable_categories": ["Food", "Grocery", "Fashion", "Electronics"],
+    "payment_method": "Store Wallet / Amazon Pay / Paytm",
+    "benefit_summary": "10% cashback up to ₹100 credited to wallet"
+  },
+  {
+    "id": "ICICI_FESTIVE_10",
+    "title": "ICICI Bank Super Saver 10% Instant Discount",
+    "description": "10% instant discount up to ₹1,200 on Electronics and Fashion orders above ₹3,000.",
+    "min_purchase": 3000,
+    "discount_type": "percentage",
+    "discount_value": 10,
+    "max_discount": 1200,
+    "applicable_categories": ["Electronics", "Fashion"],
+    "payment_method": "ICICI Bank Credit Cards",
+    "benefit_summary": "Save 10% up to ₹1,200 on Electronics & Fashion"
+  }
+]
